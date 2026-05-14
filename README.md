@@ -30,8 +30,9 @@
 
 ## 📊 GitHub Stats
 
-![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vyshu-2006&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vyshu-2006&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vyshu-2006&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vyshu-2006&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ---
 
@@ -42,4 +43,4 @@
 
 ---
 
-![Profile Views](https://komainu8.github.io/github-profile-views-counter/?username=vyshu-2006)
+![Profile Views](https://komarev.com/ghpvc/?username=vyshu-2006&color=blueviolet&style=flat)
