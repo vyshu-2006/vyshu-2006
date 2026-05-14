@@ -1,7 +1,7 @@
 # Hi, I'm Vaishnavi Moturi 👋
 
 🎓 B.Tech CSE (AI & ML) @ IARE Hyderabad | Graduating 2027  
-🔧 I build real-time data pipelines, microservices backends & AI automation systems  
+🔧 Building backend systems, AI automation tools & full-stack applications
 📍 Hyderabad, India  
 🚀 Open to SDE / ML Engineer / AI Engineer roles (2027 grad)
 
