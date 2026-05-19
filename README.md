@@ -1,4 +1,4 @@
-[# Hi, I'm Vaishnavi Moturi 👋
+# Hi, I'm Vaishnavi Moturi 👋
 
 🎓 B.Tech CSE (AI & ML) @ IARE Hyderabad | Graduating 2027  
 🔧 Building backend systems, AI automation tools & full-stack applications
@@ -44,4 +44,4 @@
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vyshu-2006&color=blueviolet&style=flat)
-](https://github-readme-stats.vercel.app/api?username=vyshu-2006&show_icons=true&theme=tokyonight&hide_border=true)
+
