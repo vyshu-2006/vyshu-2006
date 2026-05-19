@@ -30,9 +30,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vyshu-2006&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vyshu-2006&layout=compact&theme=tokyonight&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vyshu-2006/vyshu-2006/output/snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/vyshu-2006/vyshu-2006/output/snake.svg">
+</picture>
 
 ---
 
