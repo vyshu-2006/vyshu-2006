@@ -11,7 +11,7 @@
 
 **Backend:** Python · Java · Spring Boot · FastAPI · RESTful APIs  
 **Data & Infra:** Apache Kafka · Redis · MySQL · Cassandra · Docker · Microservices  
-**AI/ML:** LSTM · NLP · LLM APIs (OpenAI, Gemini) · n8n Automation  
+**AI/ML:** LSTM · NLP · LLM APIs (OpenAI, Gemini, Anthropic) · n8n Automation  
 **Frontend:** React · Tailwind CSS · JavaScript  
 
 ---
