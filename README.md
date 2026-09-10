@@ -26,7 +26,7 @@
 | [Truth Seeker](https://github.com/vyshu-2006/truth-seeker-stream) | Python · ML · NLP | Misinformation detector, 82% accuracy |
 | [AI Email Automation](https://github.com/vyshu-2006/email-ai-automation-system) | n8n · LLM APIs · Gmail API | 100+ emails/run, 70% manual time saved |
 | [Reddit Scraper](https://github.com/vyshu-2006/reddit-scraper) | JavaScript · Apify · Docker | Ultra-fast premium Apify Actor for subreddit extraction |
-| [Portfolio](https://github.com/vyshu-2006/portfolio) | HTML · CSS · JavaScript · Vercel | [🔗 Live Demo](https://portfolio-gules-ten-2jbrygd90b.vercel.app) |
+| [Portfolio](https://github.com/vyshu-2006/portfolio) | HTML · CSS · JavaScript · Vercel | [🔗 Live Demo](https://portfolio-seven-lime-60.vercel.app/) |
 
 ---
 
